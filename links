@@ -1,0 +1,25 @@
+<!DOCTYPEhtml>
+ <html>
+  <head>
+    <title>Links</title>
+  </head>
+
+   <body>
+
+<!-- This is a simple hyperlink for a webpage -->
+
+       <a href="example.co.uk">Example</a> 
+
+ 
+<!-- This is an image hyperlink, click the image -->
+
+
+       <a href="example.com"><img src="example.png"</a>
+
+
+
+<!-- When the user clicks the word or image, the user will be directed to the URL that is implemented in the a href=""element. -->
+
+   </body>
+
+ </html>
